@@ -1,0 +1,12 @@
+{
+  "admin": "Admin",
+  "home": "Home",
+  "reports": "Reports",
+  "dashboard": "Dashboard",
+  "games": "Games",
+  "preRoundReports": "Pre Round Reports",
+  "cancelledGames": "Cancelled Games",
+  "settings": "Settings",
+  "profile": "Profile",
+  "logout": "Logout"
+}

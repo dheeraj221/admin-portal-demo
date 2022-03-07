@@ -1,0 +1,12 @@
+{
+  "admin": "Administrator",
+  "home": "Zuhause",
+  "reports": "Berichte",
+  "dashboard": "Armaturenbrett",
+  "games": "Spiele",
+  "preRoundReports": "Berichte vor der Runde",
+  "cancelledGames": "Abgesagte Spiele",
+  "settings": "Die Einstellungen",
+  "profile": "Profil",
+  "logout": "Ausloggen"
+}
